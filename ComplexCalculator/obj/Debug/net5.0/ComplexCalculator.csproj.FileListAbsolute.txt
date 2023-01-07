@@ -1,0 +1,16 @@
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\bin\Debug\net5.0\ComplexCalculator.exe
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\bin\Debug\net5.0\ComplexCalculator.deps.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\bin\Debug\net5.0\ComplexCalculator.runtimeconfig.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\bin\Debug\net5.0\ComplexCalculator.runtimeconfig.dev.json
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\bin\Debug\net5.0\ComplexCalculator.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\bin\Debug\net5.0\ComplexCalculator.pdb
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.AssemblyInfoInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.AssemblyInfo.cs
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\refint\ComplexCalculator.dll
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.pdb
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ComplexCalculator.genruntimeconfig.cache
+C:\Users\luisa\OneDrive\Documentos\Visual Studio 2022\Templates\ItemTemplates\C#\ComplexCalculator\ComplexCalculator\obj\Debug\net5.0\ref\ComplexCalculator.dll
